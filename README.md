@@ -8,6 +8,7 @@
 1. 상관분석 그래프&수치화 결과
 -왼쪽부터 x_01,x_02,x_03,x_04 순으로 진행
 -y05:안테나 gain 평균(각도2)
-![Untitled](https://user-images.githubusercontent.com/56911278/187566449-83292981-3eaf-4ae7-8f79-b75daf4f8cfd.png
+![Untitled](https://user-images.githubusercontent.com/56911278/187566449-83292981-3eaf-4ae7-8f79-b75daf4f8cfd.png)
+
 -y06:신호대 잡음비(각도1)
 ![Untitled (1)](https://user-images.githubusercontent.com/56911278/187566491-15ccea05-2c33-4fb5-b24d-7bb314e23b87.png)
