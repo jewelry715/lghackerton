@@ -15,11 +15,11 @@
 
 -y07:안테나 gain 평균(각도3)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3cdfe7a-9728-4e0c-9638-3bac29c0dda5/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/56911278/190934653-83eebf00-879b-417f-b551-c226a9303681.png)
 
 -y08:신호대 잡음비(각도2)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02039177-3a61-4b03-b75e-fb47894c0e73/Untitled.png)
+![Untitled (3)](https://user-images.githubusercontent.com/56911278/190934671-89d5a12a-95c0-41e3-9f51-7b9590185258.png)
 
 ⇒y변수 전부 다 검사 통과된 상태
 
@@ -55,7 +55,7 @@
 
 - **rmse: 2.497128**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c671c34-b910-4766-917e-f29c8412616f/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56911278/190934716-1e1b85fb-dc1e-4b6a-ad2a-5052947b6e68.png)
 
 2)y_06
 
@@ -65,7 +65,7 @@
 
 **rmse: 1.813664**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78229306-0b04-4039-b11d-d04872bfba2d/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/56911278/190934721-0ec85269-2b21-4128-8da1-fff30ac083eb.png)
 
 3)y_07
 
@@ -75,7 +75,7 @@
 
 **rmse: 0.408422**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5627ac-ea54-48b8-854f-63d5ffc95335/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/56911278/190934727-2432d109-bead-4adc-b644-d65a6ce11ba7.png)
 
 4)y_08
 
@@ -84,7 +84,7 @@
 
 **rmse: 0.628281**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c412733c-4cd2-4346-9fcd-c155054fbdc4/Untitled.png)
+![Untitled (3)](https://user-images.githubusercontent.com/56911278/190934731-0382f89d-55b0-4ea8-b6ed-0d14909cd4bc.png)
 
 - NRMSE
 
